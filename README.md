@@ -21,9 +21,9 @@
  [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
  [<img align="left" alt="ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />]
  [<img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />]
+ 
+ <br />
 
- <br />
- <br />
 
  [instagram]: https://www.instagram.com/kijoon0705/
  [blog]: https://blog.naver.com/kijoon0705/
