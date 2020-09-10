@@ -35,7 +35,7 @@
  <img align="left" alt="MacOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
  <img align="left" alt="Pandas" width="40px" src="https://pandas.pydata.org/static/img/pandas_secondary.svg" />
  <img align="left" alt="ScikitLearn" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/520px-Scikit_learn_logo_small.svg.png" />
- <img align="left" alt="SeaBorn" width="40px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
+ <img align="left" alt="SeaBorn" width="26px" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
 
  <br />
 
