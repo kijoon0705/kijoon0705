@@ -1,6 +1,6 @@
 ### Hi there, I'm KJ Seong 🙋🏻‍♂️
 
- ## I'm Climber, Photographer, Marketer and Data Anlyst!
+ ## I'm Climber, Photographer, Data Anlyst!
  - 👨🏻‍🎓 Graduated in Food&Nutrition
  - 🌏 Worked as Coffee impoter in China, Marketer in Korea
  - 🖥 Now, I'm learning everything to become 'Data analyst'
@@ -10,7 +10,7 @@
 
 ### 안녕하세요! KJ Seong입니다. 🙋🏻‍♂️
 
- ## 저는 클라이머, 사진작가, 마케터, 데이터 분석가입니다!
+ ## 저는 클라이머, 사진작가, 데이터 분석가입니다!
  - 👨🏻‍🎓 식품영양학과를 졸업
  - 🌏 커피무역회사, 마케팅, 서비스 기획으로 일했습니다. 
  - 🖥 지금은 '데이터 분석가'가 되기 위해 열심히 공부 중입니다. 
