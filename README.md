@@ -1,6 +1,6 @@
 ### Hi there, I'm KJ Seong 🙋🏻‍♂️
 
- ## I'm Climber, Photographer, Data Anlyst!
+ ## I'm Climber, Photographer, Data Analyst!
  - 👨🏻‍🎓 Graduated in Food&Nutrition
  - 🌏 Worked as Coffee impoter in China, Marketer in Korea
  - 🖥 Now, I'm learning everything to become 'Data analyst'
